@@ -1,8 +1,6 @@
 docker-koel
 ===========
 
-[![automated-build-badge]][docker-hub]
-
 A docker image with only the bare essentials needed to run [koel]. It includes
 apache and a php runtime with required extensions.
 
